@@ -1,0 +1,6 @@
+# Hand Gesture Volume Control Requirements
+opencv-python>=4.5.0
+mediapipe>=0.8.9
+numpy>=1.19.0
+pycaw>=20181226; platform_system == "Windows"
+comtypes>=1.1.7; platform_system == "Windows"
